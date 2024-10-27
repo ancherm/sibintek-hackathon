@@ -1,0 +1,9 @@
+.vs/
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+*.db-shm
+*.db-wal
+.idea
